@@ -9,7 +9,7 @@ A npm package that checks whether today is the last day of the month or not
 ```
 * Example:
 ```bash
-  import {checkLastDay} from 'is-last-day-of-month';
+  const checkLasyDayOfMonth = require('is-last-day-of-month');
   
-  console.log(checkLastDay()) -> either true or false based on your date.
+  console.log(checkLastDayOfMonth()) -> either true or false based on your date.
 ```

@@ -1,5 +1,15 @@
 {
 	"name":"is-last-day-of-month",
 	"version":"1.0.0",
-	"files":["*"]
+	"files":["*"],
+	"keywords":[
+	"check",
+	"last",
+	"day",
+	"month"
+	],
+	"repository":{
+	"type":"git",
+	"url":"git+https://github.com/Yusuf-YENICERI/is-last-day-of-month"
+	}
 }
